@@ -7,7 +7,6 @@ import HowItWorks from "./components/HowItWorks";
 import WhyChooseUs from "./components/WhyChooseUs";
 import WhoWeServe from "./components/WhoWeServe";
 import ContactSection from "./components/ContactSection";
-import FinalCTA from "./components/FinalCTA";
 import Footer from "./components/Footer";
 
 export default function Home() {
