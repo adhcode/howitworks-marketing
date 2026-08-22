@@ -1,5 +1,6 @@
 import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
+import FeaturedProperties from "./components/FeaturedProperties";
 import IntroSection from "./components/IntroSection";
 import FeatureShowcase2 from "./components/FeatureShowcase2";
 import CorePlatforms from "./components/CorePlatforms";
@@ -14,6 +15,7 @@ export default function Home() {
     <div id="top" className="flex min-h-screen flex-col">
       <Header />
       <HeroSection />
+      <FeaturedProperties />
       <IntroSection />
       <CorePlatforms />
       <FeatureShowcase2 />
